@@ -68,7 +68,7 @@ AI-Timetable-Generator/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/AI-Timetable-Generator.git
+git clone https://github.com/OC2689/AI-Timetable-Generator.git
 ```
 
 ### 2. Navigate to the Project Directory
@@ -163,6 +163,4 @@ The CSP solver supports comparison of different scheduling strategies using perf
 **Backend:** Python and Flask  
 **Database:** SQLite
 
-## 📜 License
 
-This project is intended for educational and academic purposes.
